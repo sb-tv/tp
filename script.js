@@ -1,1 +1,1 @@
-window.location.href = 'https://iptvprovide.github.io/tataplay1/';
+window.location.href = 'https://google.com/';
